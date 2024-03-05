@@ -1,0 +1,23 @@
+body{
+
+}
+
+.Container{
+    background-color: blueviolet;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card{
+    background-color: pink;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    text-align: center;
+}
